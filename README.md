@@ -24,3 +24,25 @@ Required Modules:
 ◦ quit: is a command to leave the shell.  
 
 • Bonus if your shell to support several I/O redirection
+
+SAMPLE OUTPUT :
+  
+spirit:~% gcc test.c  
+spirit:~% ./a.out 
+/home/student/mimiller~$ cd . . 
+/home/student/mimiller~$ cd Desktop 
+/home/student/mimiller/Desktop~$ cd 123 
+ERROR:: No such file or directory   
+/home/student/mimiller/Desktop~$ path 
+  
+/home/student/mimiller/Desktop~$ path + /bin  
+/home/student/mimiller/Desktop~$ path 
+/bin  
+/home/student/mimiller/Desktop~$ ls 
+gf  group11  group11.zip  
+/home/student/mimiller/Desktop~$ ls -l    
+total 12  
+-rw-r--r-- 1 mimiller users   66 Nov 16 16:46 gf    
+drwxr-xr-x 2 mimiller users 4096 Nov 18 12:19 group11 
+drwxr-xr-x 2 mimiller users 4096 Nov 18 10:45 group11.zip 
+  
