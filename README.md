@@ -1,5 +1,5 @@
 # Simple-Shell  
-Implement a simple shell that supports Linux shell commands in addition to the internal commands. Using C programming language. Your implementation must work on Linux machine. 
+Implement a simple shell that supports Linux shell commands. Using C programming language. Your implementation must work on Linux machine. 
   
 Required Modules: 
   
@@ -38,11 +38,11 @@ ERROR:: No such file or directory
 /home/student/mimiller/Desktop~$ path + /bin  
 /home/student/mimiller/Desktop~$ path 
 /bin  
-/home/student/mimiller/Desktop~$ ls 
+/home/student/mimiller/Desktop~$ ls   
 gf  group11  group11.zip  
-/home/student/mimiller/Desktop~$ ls -l    
-total 12  
--rw-r--r-- 1 mimiller users   66 Nov 16 16:46 gf    
-drwxr-xr-x 2 mimiller users 4096 Nov 18 12:19 group11 
-drwxr-xr-x 2 mimiller users 4096 Nov 18 10:45 group11.zip 
+/home/student/mimiller/Desktop~$ ls -l       
+total 12      
+-rw-r--r-- 1 mimiller users   66 Nov 16 16:46 gf      
+drwxr-xr-x 2 mimiller users 4096 Nov 18 12:19 group11    
+drwxr-xr-x 2 mimiller users 4096 Nov 18 10:45 group11.zip    
   
