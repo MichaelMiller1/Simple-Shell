@@ -25,14 +25,14 @@ Required Modules:
 
 • Bonus if your shell to support several I/O redirection
 
-SAMPLE OUTPUT :
+SAMPLE OUTPUT : 
   
-spirit:~% gcc test.c  
-spirit:~% ./a.out 
-/home/student/mimiller~$ cd . . 
-/home/student/mimiller~$ cd Desktop 
-/home/student/mimiller/Desktop~$ cd 123 
-ERROR:: No such file or directory   
+spirit:~% gcc test.c    
+spirit:~% ./a.out   
+/home/student/mimiller~$ cd . .   
+/home/student/mimiller~$ cd Desktop    
+/home/student/mimiller/Desktop~$ cd 123    
+ERROR:: No such file or directory       
 /home/student/mimiller/Desktop~$ path 
   
 /home/student/mimiller/Desktop~$ path + /bin  
