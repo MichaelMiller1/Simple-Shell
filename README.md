@@ -1,5 +1,5 @@
 # Simple-Shell  
-Implement a simple shell that supports Linux shell commands. Using C programming language. Your implementation must work on Linux machine. 
+Implement a simple shell that supports Linux shell commands. Using C programming language. Your implementation must work on a Linux machine. 
   
 Required Modules: 
   
